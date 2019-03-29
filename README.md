@@ -18,9 +18,9 @@
 字体：[贤二体，免费商用权限](https://www.zcool.com.cn/article/ZNjk4NDM2.html)
 
 ## iPhone X 版本
-【图】
+![](http://markdown.zhangsubo.cn/2019-03-29-iphonexspacegrey_portrait.png)
 ## 1080P 版本
-【图】
+![](http://markdown.zhangsubo.cn/2019-03-29-macbookpro15_front.png)
 
 ## PSD原版，我放在 GitHub 上，欢迎取用，记得点 star 就行
 
